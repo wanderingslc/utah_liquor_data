@@ -63,3 +63,5 @@ gem "sidekiq", "~> 7.3"
 gem "trix", "~> 0.10.1"
 
 gem "actiontext", "~> 7.2.beta3"
+
+gem "roo", "~> 2.10"
